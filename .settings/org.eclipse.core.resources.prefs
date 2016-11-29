@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/logging/Log4JInitServlet.java=UTF-8
+encoding//src/com/logging/Log4JTestServlet.java=UTF-8
+encoding//src/log4j.properties=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
